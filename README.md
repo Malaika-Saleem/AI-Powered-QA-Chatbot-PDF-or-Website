@@ -1,1 +1,1 @@
-# AI-Powered-Q-A-Chatbot-PDF-or-Website-
+# AI-Powered-QA-Chatbot-PDF-or-Website
